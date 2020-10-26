@@ -1,0 +1,1 @@
+# vanilla-firebase-messaging-snippet
